@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in the United Kingdom, covering official tourism boards, national rail networks, heritage agencies, regional guides, and safety services.
 
+The United Kingdom is a diverse northwestern European island destination encompassing historic royal capitals, rolling countryside, rugged national parks, and rich maritime heritage. This list is intended for cultural travelers, historic architecture explorers, scenic road-trippers, and heritage researchers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
